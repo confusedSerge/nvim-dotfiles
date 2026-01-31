@@ -7,48 +7,48 @@ require('bufferline').setup {
 
     highlights = {
         background = {
-            fg = "#bbbbbb",
-            bg = "#111111",
+            fg = "#D0D0D0",
+            bg = "#151515",
         },
 
         fill = {
-            fg = "#bbbbbb",
-            bg = "#111111",
+            fg = "#D0D0D0",
+            bg = "#151515",
         },
 
         indicator_selected = {
-            fg = "#828282",
-            bg = "#111111",
+            fg = "#75B5AA",
+            bg = "#151515",
         },
 
         buffer_visible = {
-            fg = "#bbbbbb",
-            bg = "#111111",
+            fg = "#D0D0D0",
+            bg = "#151515",
         },
 
         buffer_selected = {
-            fg = "#bbbbbb",
-            bg = "#111111",
+            fg = "#D0D0D0",
+            bg = "#151515",
         },
 
         tab = {
-            fg = "#111111",
-            bg = "#111111",
+            fg = "#151515",
+            bg = "#151515",
         },
 
         separator = {
-            fg = "#111111",
-            bg = "#111111",
+            fg = "#151515",
+            bg = "#151515",
         },
 
         separator_visible = {
-            fg = "#111111",
-            bg = "#111111",
+            fg = "#151515",
+            bg = "#151515",
         },
 
         separator_selected = {
-            fg = "#111111",
-            bg = "#111111",
+            fg = "#151515",
+            bg = "#151515",
         },
     }
 }
